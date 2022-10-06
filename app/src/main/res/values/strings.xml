@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimalWorld</string>
+    <string name="next">NEXT_ACTIVITY</string>
+    <string name="Rhino_status">Rhino status</string>
+    <string name="give_food_to_rhino">Give food to rhino</string>
+    <string name="Leopard_status">Leopard status</string>
+    <string name="give_food_to_leopard">Give food to leopard</string>
+    <string name="Gorillas_status">Gorillas status</string>
+    <string name="give_food_to_gorilla">Give food to gorilla</string>
+</resources>
